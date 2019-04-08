@@ -8,7 +8,8 @@
 - Antennas.xml
 - Mellow-Discord.xml
 - Minecraft-Server-PaperSpiggot-Creative.xml
-- Nextcloud
+- Nextcloud.xml
+- organizr-v2.xml
 
 ### Templates Modified by Me
 - NginxProxyManager.xml	(replaced the unraid app store verions docker repo url to the offical docker repo)
