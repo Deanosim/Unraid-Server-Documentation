@@ -3,11 +3,11 @@
 
 ### Templates Created by Me
 - Jellyfin.xml (I made this because the Offical one is missing from the jellyfin github)
-- Minecraft-Server-PaperSpiggot.xml
-- Spiggot-BungeeCord.xml
+- Minecraft-Server-PaperSpigot.xml
+- Spigot-BungeeCord.xml
 - Antennas.xml
 - Mellow-Discord.xml
-- Minecraft-Server-PaperSpiggot-Creative.xml
+- Minecraft-Server-PaperSpigot-Creative.xml
 - Nextcloud.xml
 - organizr-v2.xml
 
