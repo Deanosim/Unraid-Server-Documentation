@@ -6,6 +6,7 @@
 - Minecraft-Server-PaperSpiggot.xml
 - Spiggot-BungeeCord.xml
 - Antennas.xml
+- Mellow-Discord.xml
 
 ### Templates Modified by Me
 - NginxProxyManager.xml	(replaced the unraid app store verions docker repo url to the offical docker repo)
