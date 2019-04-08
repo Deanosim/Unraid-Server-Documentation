@@ -2,7 +2,7 @@
 <Container version="2">
   <Name>NginxProxyManager</Name>
   <Repository>jc21/nginx-proxy-manager:latest</Repository>
-  <Registry>https://hub.docker.com/r/jjc21/nginx-proxy-manager</Registry>
+  <Registry>https://hub.docker.com/r/jc21/nginx-proxy-manager</Registry>
   <Network>br0</Network>
   <MyIP>192.168.1.207</MyIP>
   <Shell>sh</Shell>
