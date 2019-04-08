@@ -12,6 +12,8 @@
 - organizr-v2.xml
 - Gotify.xml
 - SteamCache-DNS.xml
+- SteamCache-Monolithic.xml
+- SteamCache-SNIProxy.xml
 
 ### Templates Modified by Me
 - NginxProxyManager.xml	(replaced the unraid app store verions docker repo url to the offical docker repo)
