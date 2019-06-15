@@ -30,7 +30,7 @@ MariaDB image as database instance&#xD;
 Cron jobs as a "sidecar" container&#xD;
 Syslog-ng support through a "sidecar" container</Overview>
   <Category>Tools: Other: Network:Other Status:Beta</Category>
-  <WebUI>[IP][PORT:6969]</WebUI>
+  <WebUI>http://[IP][PORT:6969]</WebUI>
   <TemplateURL/>
   <Icon/>
   <ExtraParams/>
